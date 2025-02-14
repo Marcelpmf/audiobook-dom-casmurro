@@ -63,6 +63,6 @@ function voltarFaixa(){
 }
 
 
-botaoPlayPause.addEventListener('click', tocarOuPausar); //capacidade de escutar um evento (ei eu quero carne, churrasqueiro diz que carne ta pronto e voce sai correndo. é o evento de CLICK)
+botaoPlayPause.addEventListener('click', tocarOuPausar); 
 botaoAvancar.addEventListener('click', proximaFaixa);
 botaoVoltar.addEventListener('click', voltarFaixa);
