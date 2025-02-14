@@ -4,7 +4,7 @@ const botaoVoltar = document.getElementById('anterior');
 const audioCapitulo = document.getElementById('audio-capitulo');
 const nomeCapitulo = document.getElementById('capitulo')
 
-const numeroCapitulos = 10; //const é quando nao vai mudar e let é quando muda usar const aqui pq sempre vai ser 10 capitulos
+const numeroCapitulos = 10; 
 let taTocando = 0;
 let capituloAtual = 1;
 
