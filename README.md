@@ -1,2 +1,2 @@
 # audiobook-dom-casmurro
-audiobook criado com javascript, html e css básico
+Audiobook criado com Javascript, HTML5 e CSS3.
